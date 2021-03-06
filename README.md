@@ -1,1 +1,2 @@
-# stock-average-calculator
+### Average Calculator
+---
